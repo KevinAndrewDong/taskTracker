@@ -1,5 +1,5 @@
 ## 任务清单
-![image](https://github.com/KevinAndrewDong/taskTracker/blob/master/public/production.png){:height="30%" width="30%"}
+<img src="https://github.com/KevinAndrewDong/taskTracker/blob/master/public/production.png" width="30%" height="30%">
 
 启动：
 `npm start`
