@@ -38,7 +38,7 @@ const AddTask = ({ onAdd }) => {
           onChange={(e) => setDay(e.target.value)}
         />
       </div>
-      <div className="form-control form-control-check">
+      <div className="form-control form-control-check" >
         <label>需要重点提醒：</label>
         <input
           type="checkbox"
