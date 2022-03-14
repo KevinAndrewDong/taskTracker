@@ -17,6 +17,12 @@
       "text": "一周备菜",
       "day": "02/19 20:00",
       "reminder": false
+    },
+    {
+      "text": "看电影",
+      "day": "03/05 8:00",
+      "reminder": true,
+      "id": 4
     }
   ]
 }

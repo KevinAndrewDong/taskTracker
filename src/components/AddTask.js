@@ -26,7 +26,6 @@ const AddTask = ({ onAdd }) => {
         <label>任务</label>
         <input
           type="text"
-          placeholder="任务内容"
           value={text}
           onChange={(e) => setText(e.target.value)}
         />
@@ -35,13 +34,12 @@ const AddTask = ({ onAdd }) => {
         <label>日期和时间</label>
         <input
           type="text"
-          placeholder="MM/dd HH:mm"
           value={day}
           onChange={(e) => setDay(e.target.value)}
         />
       </div>
       <div className="form-control form-control-check">
-        <label>是否重要</label>
+        <label>需要重点提醒：</label>
         <input
           type="checkbox"
           checked={reminder}
