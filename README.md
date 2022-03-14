@@ -1,7 +1,7 @@
 ## 基于 React + JSON Server 的任务清单
 
 预览效果:
-![新增任务](build/example1.png) | ![新增完成](build/example2.png)
+![新增任务](public/example1.png) | ![新增完成](public/example2.png)
 ---|---
 
 启动：
